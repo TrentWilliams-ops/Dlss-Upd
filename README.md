@@ -24,15 +24,18 @@ Click the Download Updated DLSS button to fetch the latest DLSS file.
 9. Choose an Installation Option
     
 Install/Find:
+
 Searches all folders on your system containing the NVIDIA DLSS file.
 Saves these paths and updates the DLSS files automatically.
 Note: The initial run may take longer, but future updates will be faster.
 
 Install - Specific:
+
 Allows you to manually select directories through a user-friendly interface.
 Updates the DLSS files in the directories you select and saves these paths for quicker future updates.
 
 11. Completion
+    
 After either installation option completes, you’re all set! Feel free to close the application.
 ---------------------------------------------------------------------------------------------------------------
 Optional Features
