@@ -2,12 +2,13 @@ DLSS-Upd
 
 DLSS-Upd is a tool to manage/update NVIDIA DLSS files across multiple directories on your system. 
 This tool just makes it easier locating, saving, and updating DLSS files, making future updates faster and more efficient...
-----------------------------------------------------------------------------------------------------------
-Requirements
+---------------------------------------------------------------------------------------------------------------
+Requirements:
+
 [.NET 6.0 Desktop Runtime
 ](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.35-windows-x64-installer?cid=getdotnetcore)
-
-Instructions-----------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
+Instructions:
 1. Download the ZIP
 Download the ZIP file from this GitHub repository.
 
