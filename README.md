@@ -13,11 +13,11 @@ Instructions:
 
 3. Extract the contents of the ZIP to a directory of your choice.
 
-5. Open the folder and run WinFormsApp1.exe.
+4. Open the folder and run WinFormsApp1.exe.
 
-7. Click the Download Updated DLSS button to fetch the latest DLSS file.
+5. Click the Download Updated DLSS button to fetch the latest DLSS file.
 
-9. Choose an Installation Option
+6. Choose an Installation Option
     
 Install/Find:
 
@@ -34,7 +34,7 @@ Install - Specific:
 - Updates the DLSS files in the directories you select and saves these paths for quicker future updates.
   
 
-11. After either installation option completes, you’re all set! Close the application.
+7. After either installation option completes, you’re all set! Close the application.
 
 ---------------------------------------------------------------------------------------------------------------
 Optional Features:
