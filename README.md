@@ -34,7 +34,7 @@ Install - Specific:
 - Updates the DLSS files in the directories you select and saves these paths for quicker future updates.
   
 
-7. After either installation option completes, you’re all set! Close the application.
+6. After either installation option completes, you’re all set! Close the application.
 
 ---------------------------------------------------------------------------------------------------------------
 Optional Features:
