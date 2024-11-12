@@ -13,7 +13,7 @@ Instructions:
 
 3. Extract the contents of the ZIP to a directory of your choice.
 
-4. Open the folder and run WinFormsApp1.exe.
+4. Open the folder and run Dlss Updater Manager.exe.
 
 5. Click the Download Updated DLSS button to fetch the latest DLSS file.
 
