@@ -8,7 +8,7 @@ Requirements:
 [.NET 6.0 Desktop Runtime
 ](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.35-windows-x64-installer?cid=getdotnetcore)
 ---------------------------------------------------------------------------------------------------------------
-Instructions:
+_Instructions:_
 1. Download the ZIP file from this GitHub repository.
 
 3. Extract the contents of the ZIP to a directory of your choice.
